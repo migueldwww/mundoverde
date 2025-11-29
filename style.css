@@ -506,7 +506,8 @@ footer {
 
   .card {
     min-width: unset;
-    width: 100%;
+    min-width: 280px;
+    max-height: 380px;
   }
 
   .card h3 {
@@ -520,4 +521,5 @@ footer {
   .sobre-texto p {
     font-size: 1rem;
   }
+
 }

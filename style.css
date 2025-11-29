@@ -506,8 +506,7 @@ footer {
 
   .card {
     min-width: unset;
-    min-width: 280px;
-    max-height: 380px;
+    width: 100%;
   }
 
   .card h3 {
@@ -523,3 +522,4 @@ footer {
   }
 
 }
+
